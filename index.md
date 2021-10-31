@@ -4,7 +4,7 @@ Tracker Book is an application to record reviewed/read books so you will never f
 
 You can just upload book file(s) to the application and it will save it into its database. So you will be able to search/see all your books in one place.
 
-![img)(https://github.com/TrackerBook/TrackerBook.github.io/blob/main/trackerbook.png?raw=true)
+![img](https://github.com/TrackerBook/TrackerBook.github.io/blob/main/trackerbook.png?raw=true)
 
 Moreover, you can mark any books as deleted to archive it, and finish the book to emphasize that you have read the bool.
 
