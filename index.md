@@ -13,5 +13,3 @@ In addition to that, you can add tags to the books to organize your bool collect
 Hope you will enjoy this small application and find it useful!
 
 Wish you the best and stay safe!
-
-@YP
