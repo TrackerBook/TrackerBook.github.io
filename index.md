@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Tracker Book
 
-You can use the [editor on GitHub](https://github.com/TrackerBook/TrackerBook.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Tracker Book is an application to record reviewed/read books so you will never forget what you have read!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can just upload book file(s) to the application and it will save it into its database. So you will be able to search/see all your books in one place.
 
-### Markdown
+![img)(src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Moreover, you can mark any books as deleted to archive it, and finish the book to emphasize that you have read the bool.
 
-```markdown
-Syntax highlighted code block
+In addition to that, you can add tags to the books to organize your bool collection!
 
-# Header 1
-## Header 2
-### Header 3
+Hope you will enjoy this small application and find it useful!
 
-- Bulleted
-- List
+Wish you the best and stay safe!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrackerBook/TrackerBook.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+@YP
