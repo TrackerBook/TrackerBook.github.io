@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+author: Yauhen Pyl
+title: Tracker Book
+email: yauhen.pyl@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Application to record and save reviewed/read books.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: yauhenpyl
+github_username: ypyl
