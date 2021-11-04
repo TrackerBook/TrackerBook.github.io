@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Application to record and save reviewed/read books.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: true
 github:
   is_user_page: false
   is_project_page: true
