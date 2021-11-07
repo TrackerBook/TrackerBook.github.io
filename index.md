@@ -8,7 +8,7 @@ You can just upload book file(s) to the application and it will save it into its
 
 Moreover, you can mark any books as deleted to archive it, and finish the book to emphasize that you have read the bool.
 
-In addition to that, you can add tags to the books to organize your bool collection!
+In addition to that, you can add tags to the books to organize your book collection!
 
 Hope you will enjoy this small application and find it useful!
 
